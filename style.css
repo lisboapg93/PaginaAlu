@@ -138,10 +138,11 @@ form label, form legend{
     border-radius: 7px;
     font-weight: bold;
     font-size: 18px;
-    transition: 1s;
+    transition: 1s all;
     cursor: pointer;
 }
 
 .enviar:hover {
     background: darkorange;
+    transform: scale(1.2);
 }
